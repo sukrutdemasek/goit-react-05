@@ -1,0 +1,29 @@
+.movieDetails {
+  margin-left: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin-bottom: 8px;
+}
+.movieDetails h1 {
+  font-size: 48px;
+}
+.homeButton {
+  display: block;
+  width: 100px;
+  height: 50px;
+  font-size: 16px;
+  background-color: blueviolet;
+  color: white;
+}
+.castLinks {
+  display: inline-flex;
+  gap: 8px;
+}
+.castLink {
+  text-decoration: none;
+  font-size: 24px;
+  background-color: blueviolet;
+  color: white;
+  padding: 8px;
+}

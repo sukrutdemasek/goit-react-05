@@ -1,0 +1,15 @@
+nav {
+  display: inline-flex;
+  gap: 8px;
+  margin-left: 8px;
+  margin-top: 8px;
+}
+.navLink {
+  font-size: 24px;
+  text-decoration: none;
+}
+.navLink:hover,
+.navLink:focus,
+.navLink:active {
+  color: blue;
+}

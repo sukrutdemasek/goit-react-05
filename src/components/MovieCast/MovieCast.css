@@ -1,0 +1,11 @@
+.castList {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 8px;
+}
+.castList li {
+  border: 1px solid #000;
+  padding: 2px;
+}
